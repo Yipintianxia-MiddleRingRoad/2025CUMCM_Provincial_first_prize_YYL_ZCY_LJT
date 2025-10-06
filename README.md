@@ -11,3 +11,16 @@ Read me:
 关于数学建模的学习方法，网上已有大量教程，此处不再展开；但特别推荐“数模加油站”及清风老师的课程——建议大家多关注“干货”内容，避免浪费时间在“水课”上。
 
 最后，希望这份分享能切实帮到正在准备数模竞赛的你。若内容中存在疏漏，欢迎大家指出；若涉及侵权，请随时联系我们删除。再次感谢您的阅读！
+
+2025 Mathematical Modeling Competition for College Students (First prize in Sichuan Province) Competition summary and resource sharing
+Thank you so much for reading this far! This material is a summary of the entries from the Mathematical Modeling Competition for College Students in 2025 (the first prize of Sichuan Province). It contains the LaTeX file compression package of the entries, the instructions for the use of AI tools (which can be directly imported into Overleaf to realize online collaborative editing by three people) and other practical information, which is shared with all students.
+
+My path to mathematical modeling took two years: not only did I fail in my first year, but I was troubled by my failure to manage a relationship with a teammate, and I even had half a year of self-doubt during that time. The pressures of school, family, and emotion also hit me hard. But I never dare to concede defeat, but did not choose to give up. In this year, I re-examined my own shortcomings and successively signed up for the Blue Bridge Cup, Service outsourcing competition, computer design competition and various small competitions of mathematical modeling. The final harvest is far more than a few awards, more important is the complete return of self-confidence: no longer like before, even when looking for teammates because of "resume blank" and lack of confidence.
+
+My performance in mathematical modeling papers had been flat until three intensive trainings in the summer of 2025, during which time we switched to Overleaf online collaborative editing and accumulated a lot of experience in efficient collaboration. A few notes on the LaTeX templates used in this paper: Initially we search on the https://cn.overleaf.com/latex/templates website "mathematical modeling", stumbled upon a simple and beautiful template (it's a pity that at present the template has been unable to find, also failed to trace the author information). The font design and appendix layout of this original template are excellent, but the line spacing is too wide. In addition, this year's competition added the "AI tool instructions" requirements, we adjusted the parameters on the basis of the original template, tidy up the reference library, make the code more regular, but also more in line with the national competition specifications.
+
+Now, with the unanimous agreement of the other two teammates, we will share our competition papers free of charge for your reference and study. The sharing package also contains several useful documents accumulated from our past competitions, hoping to provide you with more help.
+
+There are a number of online tutorials on how to learn mathematical modeling, which will not be covered here. But especially recommend "Model Gas station" and teacher Qingfeng courses - we suggest that you pay more attention to "dry goods" content, avoid wasting time in "water lessons".
+
+Finally, I hope this sharing can really help you who are preparing for the mathematical model competition. If there are omissions in the content, welcome to point out; If infringement is involved, please feel free to contact us to delete. Thanks again for reading!
